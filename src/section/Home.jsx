@@ -9,7 +9,7 @@ export default function Home(){
     return(
         <section id='home' className={style.home}>
             <div className={style.slogan}>
-                <h1>Bienvenue dans notre univers eCom App</h1>
+                <h1>Welcom in our eCom App</h1>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, quidem accusantium, est voluptatum ducimus explicabo odio aperiam rerum ratione nulla velit sapiente veritatis asperiores, ipsum dignissimos. Accusantium mollitia neque maiores aperiam, autem alias.
                 </p>
